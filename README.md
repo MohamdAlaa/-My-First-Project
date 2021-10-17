@@ -1,2 +1,2 @@
 # My-First-Project
-pizza project
+pizza-project
